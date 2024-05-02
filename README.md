@@ -1,4 +1,4 @@
-Demo project to raise an issue at https://github.com/pmd/pmd .
+Demo project for PMD issue https://github.com/pmd/pmd/issues/4985 .
 
 Run with
 
